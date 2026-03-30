@@ -18,9 +18,6 @@ data/
 # Models
 models/
 
-# Results
-results/
-
 # Environment
 .conda/
 venv/
@@ -37,6 +34,5 @@ env/
 Thumbs.db
 
 # Project-specific
-CLAUDE.md
 *.hdf5
 *.mat
