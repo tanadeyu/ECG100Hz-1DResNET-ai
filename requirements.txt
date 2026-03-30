@@ -1,0 +1,28 @@
+# PyTorch
+torch>=2.0.0
+torchvision>=0.15.0
+
+# データセットダウンロード
+kagglehub>=1.0.0
+
+# PhysioNet ECGデータ取得
+wfdb>=4.0.0
+
+# データ処理
+numpy>=1.24.0
+pandas>=2.0.0
+
+# 可視化
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# 機械学習
+scikit-learn>=1.3.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# その他
+tqdm>=4.65.0
+pyyaml>=6.0
